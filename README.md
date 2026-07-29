@@ -4,87 +4,87 @@
 
 ### 💻 Computer Science Engineering Student | 🚀 Software Developer | 🧠 DSA Enthusiast | 🤖 Machine Learning Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Software+Developer;Full+Stack+Developer;Machine+Learning+Learner;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Software+Developer;Full+Stack+Developer;Machine+Learning+Learner;Always+Learning+New+Things!" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=syedzain-codes&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=syedzain-codes&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Computer Science Engineering Student
 - 💻 Passionate about Software Development & Problem Solving
-- 🌱 Currently learning **Machine Learning**, **React**, **Node.js**, and **System Design**
-- 🔥 Solving **Data Structures & Algorithms** regularly
-- 🤝 Looking to collaborate on **Open Source** and **Full Stack Projects**
-- 🎯 Goal: Become a **Software Engineer** at a top product-based company
-- ⚡ Fun Fact: *Consistency beats talent when talent isn't consistent.*
+- 🌱 Currently learning **Machine Learning**, **React**, **Node.js**, **FastAPI**, and **System Design**
+- 🔥 Solving **Data Structures & Algorithms**
+- 🤝 Open to collaborating on **Open Source** and **Full Stack Projects**
+- 🎯 Goal: Become a Software Engineer at a Top Product-Based Company
+- ⚡ Motto: **Code • Learn • Build • Repeat**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,react,nodejs,fastapi,mysql,sqlite,git,github,vscode,vercel,netlify,figma"/>
 
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=syedzain-codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats-beta-tan-31.vercel.app/api?username=syedzain-codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedzain-codes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-beta-tan-31.vercel.app/api/top-langs/?username=syedzain-codes&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=syedzain-codes&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=syedzain-codes&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedzain-codes&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
+# 🐍 Contribution Snake
 
+<p align="center">
 
-## 🎯 Current Focus
+<img src="https://raw.githubusercontent.com/syedzain-codes/syedzain-codes/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=syedzain-codes&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
 
 - ✅ Data Structures & Algorithms
 - ✅ Full Stack Development
@@ -94,7 +94,7 @@
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -114,18 +114,10 @@
 
 ---
 
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedzain-codes&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Code • Learn • Build • Repeat"*
+### 🚀 Code • Learn • Build • Repeat
 
 </div>
