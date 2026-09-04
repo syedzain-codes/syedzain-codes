@@ -21,7 +21,7 @@
 - 🌱 Currently learning **Machine Learning**, **React**, **Node.js**, **FastAPI**, and **System Design**
 - 🔥 Solving **Data Structures & Algorithms**
 - 🤝 Open to collaborating on **Open Source** and **Full Stack Projects**
-- 🎯 Goal: Become a Software Engineer at a Top Product-Based Company
+- 🎯 Goal: Become a Software Engineer.
 - ⚡ Motto: **Code • Learn • Build • Repeat**
 
 ---
